@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865666085787",
+    "project_id": "bessiha-dd2ad",
+    "storage_bucket": "bessiha-dd2ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865666085787:android:92b136a03e7e6bcdeee73e",
+        "android_client_info": {
+          "package_name": "com.example.challengebessiha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865666085787-0bi0f9dnodjgp3f30epkvb4t38a8e10o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUs208F_x07PQSja_X6ptxvof73dkyVRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865666085787-0bi0f9dnodjgp3f30epkvb4t38a8e10o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
